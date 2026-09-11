@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Billiot Pest Control">
+  <circle cx="100" cy="100" r="98" fill="#4C6971"/>
+  <circle cx="100" cy="100" r="78" fill="#2E3192"/>
+  <circle cx="100" cy="100" r="78" fill="none" stroke="#FAEC08" stroke-width="4"/>
+  <text x="100" y="92" text-anchor="middle" font-family="Arial Black,Arial" font-size="22" fill="#fff">BILLIOT</text>
+  <text x="100" y="118" text-anchor="middle" font-family="Arial" font-size="11" fill="#FAEC08" letter-spacing="2">SINCE 1937</text>
+</svg>
